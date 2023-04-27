@@ -8,7 +8,7 @@
 I am a Backend Engineer who transitioned back to Software Engineering, from Software Engineering, via a Masters degree in Architecture (trust me, it's a long story).
 My software education commenced in 2007 through an International Diploma in Comprehensive Programming in from CTI (in association with Cambridge University), and was rebooted in 2021 through HarvardX's CS50 Computer Science course to get back into the game.
 
-- 👨‍💻 I'm currently a Backend Engineer at [Humanstate](https://www.humanstate.com/) / [Payprop](https://payprop.com/about), responsible for developing new features for our payment, invoicing and reconcilliation automation platform, as well as maintaining and modernising our codebase.
+- 👨‍💻 I'm currently a Backend Engineer at [![Humanstate](https://img.shields.io/badge/-Humanstate-000000?style=flat&logoColor=ffffff)](https://www.humanstate.com/) / [![PayProp](https://img.shields.io/badge/-PayProp-ee3124?style=flat)](https://payprop.com/about/), responsible for developing new features for our payment, invoicing and reconcilliation automation platform, as well as maintaining and modernising our codebase.
 - 📚 I’m currently learning everything I can about Backend technologies. 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop trying to find new ways to solve people's problems using technology.
 - ⚡ Fun fact: I love to sail ⛵, hike 🥾, and listen to Jazz 🎷.
