@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-geraldsouthwood@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:geraldsouthwood@gmail.com "Connect via Email")
 [![Linkedin Badge](https://img.shields.io/badge/-Gerald%20Southwood-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gsouthwood/ "Connect on LinkedIn")
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 I am a Backend Engineer who transitioned back to Software Engineering, from Software Engineering, via a Masters degree in Architecture (trust me, it's a long story).
 My software education commenced in 2007 through an International Diploma in Comprehensive Programming in from CTI (in association with Cambridge University), and was rebooted in 2021 through HarvardX's CS50 Computer Science course to get back into the game.
@@ -28,7 +28,7 @@ My software education commenced in 2007 through an International Diploma in Comp
 
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)
 ![Perl](http://img.shields.io/badge/-Perl-39457E?style=flat-square&logo=perl&logoColor=ffffff)
-![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=perl&logoColor=000000)
+![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
 ![C#](http://img.shields.io/badge/-C%20Sharp-239120?style=flat-square&logo=csharp&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
